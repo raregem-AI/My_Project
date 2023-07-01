@@ -4,6 +4,6 @@ in the future and let them know if the installed solar energy equipments and mat
 inverters are working at optimum level which would help them to know the components efficiency level to avoid system collapse. 
 This project can also be used to checkmate the level of effect of climate change to the solar system.
 #Steps:
-Data collection
-Data preprocessing
-Cross Evaluation
+#Data collection
+#Data preprocessing
+#Cross Evaluation
